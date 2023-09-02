@@ -27,12 +27,4 @@ user@example:~chmod +x passgen.sh
 user@example:~./passgen.sh
 ```
 
-## Improvements
-- The script can be implemented on a GUI inteface for better user experience.
-- Can be implemented using Python with Tkiter library for GUI support.
 
-## Credits
-
-- **Special thanks** to [Stackoverflow](https://stackoverflow.com/) for providing implementation support.
-- Thanks to [TutorialsPoint](https://www.tutorialspoint.com/unix/shell_scripting.htm) for providing extensive help out.
-- A huge thanks to the Google, for providing such a powerful search engine.😉
