@@ -10,8 +10,6 @@ The whole project was made using bash scripting. Secured with base64 and custom 
 
 - [Usage](#configuration)
 - [Instalation](#instalation)
-- [Improvements](#improvements)
-- [Credits](#credits)
 
 ## Usage
 - Cross platform support as long as it supports bash or similar shell.
