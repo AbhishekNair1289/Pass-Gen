@@ -1,4 +1,4 @@
-##About the Pass-Gen
+## About the Pass-Gen
 
 Pass-Gen is a simple tool used to generate password using the user's reqirement.
 
