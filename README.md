@@ -35,6 +35,7 @@ user@example:~cd Pass-Gen
 user@example:~chmod +x passgen.sh 
 user@example:~./passgen.sh
 ```
+
 ![image](https://github.com/AbhishekNair1289/Pass-Gen/assets/74359627/b732f5d7-55ef-49e0-86d3-1d39c2682c97)
 
 ## Options
@@ -49,5 +50,23 @@ You can customize password generation using the following options:
 - [:digit:] for numbers only.
 - [:punct:] for special characters only.
 - [:alnum:][:punct:] for a mix of lowercase, uppercase, digits, and special characters (default).
+
+  
 ![image](https://github.com/AbhishekNair1289/Pass-Gen/assets/74359627/d03b4528-ee45-4640-b0d4-1854207c0ed2)
+
+## Examples
+
+Generate a 12-character password with lowercase letters and digits:
+
+`./passgen.sh -l 12 -v '[:lower:][:digit:]'`
+
+Generate a password with uppercase letters and special characters:
+
+`./passgen.sh -v '[:upper:][:punct:]'`
+
+## Author
+Abhishek A Nair - [https://github.com/AbhishekNair1289]
+
+## License
+This project is open-source and available under the MIT License.
 
